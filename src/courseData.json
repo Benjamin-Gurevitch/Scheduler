@@ -1,0 +1,4345 @@
+{
+     "sampleClasses" : [
+        {
+          "id": "603-101-MQ-001",
+          "code": "603-101-MQ",
+          "name": "Introduction to College English",
+          "instructor": "FITZ-JAMES, M.",
+          "section": "001",
+          "schedule": [
+            { "days": ["T", "F"], "time": "08:15 - 10:15" }
+          ],
+          "color": "bg-blue-500/70",
+          "category": "English",
+          "group": "101"
+        },
+        {
+          "id": "603-101-MQ-002",
+          "code": "603-101-MQ",
+          "name": "Introduction to College English",
+          "instructor": "VANN, M.",
+          "section": "002",
+          "schedule": [
+            { "days": ["M", "W"], "time": "08:15 - 10:15" }
+          ],
+          "color": "bg-blue-500/70",
+          "category": "English",
+          "group": "101"
+        },
+        {
+            "id": "603-102-MQ-001",
+            "code": "603-102-MQ",
+            "name": "Novels of Nature, the Environment, and the Ecological Imagination",
+            "instructor": "FLEMING, D.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M", "W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-002",
+            "code": "603-102-MQ",
+            "name": "Folk and Fairy Tales",
+            "instructor": "ARNOT, E.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-003",
+            "code": "603-102-MQ",
+            "name": "Arthurian Legends: The Medieval Romance Tradition",
+            "instructor": "FITZ-JAMES, M.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-004",
+            "code": "603-102-MQ",
+            "name": "Magic Realism",
+            "instructor": "DUBÉ, P.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-005",
+            "code": "603-102-MQ",
+            "name": "The Origins and Innovations of the Short Story",
+            "instructor": "MACDONALD, J.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-006",
+            "code": "603-102-MQ",
+            "name": "The Origins and Innovations of the Short Story",
+            "instructor": "MACDONALD, J.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-007",
+            "code": "603-102-MQ",
+            "name": "Gothic Fiction",
+            "instructor": "HUFFELS, N.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-008",
+            "code": "603-102-MQ",
+            "name": "Gothic Fiction",
+            "instructor": "HUFFELS, N.",
+            "section": "008",
+            "schedule": [
+              { "days": ["W", "F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-009",
+            "code": "603-102-MQ",
+            "name": "The Essay",
+            "instructor": "WALSER, S.",
+            "section": "009",
+            "schedule": [
+              { "days": ["T", "F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-010",
+            "code": "603-102-MQ",
+            "name": "Philosophical Approaches to the Teleplay",
+            "instructor": "MCCAMBRIDGE, A.",
+            "section": "010",
+            "schedule": [
+              { "days": ["M", "W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-011",
+            "code": "603-102-MQ",
+            "name": "Philosophical Approaches to the Teleplay",
+            "instructor": "MCCAMBRIDGE, A.",
+            "section": "011",
+            "schedule": [
+              { "days": ["T", "F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-012",
+            "code": "603-102-MQ",
+            "name": "Short Fiction",
+            "instructor": "NEWELL, M.",
+            "section": "012",
+            "schedule": [
+              { "days": ["M", "W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-013",
+            "code": "603-102-MQ",
+            "name": "Short Fiction",
+            "instructor": "NEWELL, M.",
+            "section": "013",
+            "schedule": [
+              { "days": ["W", "F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-014",
+            "code": "603-102-MQ",
+            "name": "History, Truth and Fiction",
+            "instructor": "BERDICHEVSKY, L.",
+            "section": "014",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-015",
+            "code": "603-102-MQ",
+            "name": "History, Truth and Fiction",
+            "instructor": "BERDICHEVSKY, L.",
+            "section": "015",
+            "schedule": [
+              { "days": ["T", "F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-016",
+            "code": "603-102-MQ",
+            "name": "Thrills and Chills: The Psychological Thriller",
+            "instructor": "PATRICIO, T.",
+            "section": "016",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-017",
+            "code": "603-102-MQ",
+            "name": "Travel Writing as Genre",
+            "instructor": "DANN, P.",
+            "section": "017",
+            "schedule": [
+              { "days": ["W", "F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-018",
+            "code": "603-102-MQ",
+            "name": "Decoding Poetry",
+            "instructor": "RALICKAS, V.",
+            "section": "018",
+            "schedule": [
+              { "days": ["T", "F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-019",
+            "code": "603-102-MQ",
+            "name": "Science Fiction",
+            "instructor": "SHECKLER, C.",
+            "section": "019",
+            "schedule": [
+              { "days": ["M", "W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-020",
+            "code": "603-102-MQ",
+            "name": "Decoding Poetry",
+            "instructor": "RALICKAS, V.",
+            "section": "020",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-021",
+            "code": "603-102-MQ",
+            "name": "Novels of Nature, the Environment, and the Ecological Imagination",
+            "instructor": "FLEMING, D.",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-022",
+            "code": "603-102-MQ",
+            "name": "Folk and Fairy Tales",
+            "instructor": "ARNOT, E.",
+            "section": "022",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-023",
+            "code": "603-102-MQ",
+            "name": "Magic Realism",
+            "instructor": "DUBÉ, P.",
+            "section": "023",
+            "schedule": [
+              { "days": ["W", "F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-024",
+            "code": "603-102-MQ",
+            "name": "The Weird Tale",
+            "instructor": "VANN, M.",
+            "section": "024",
+            "schedule": [
+              { "days": ["T", "F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-025",
+            "code": "603-102-MQ",
+            "name": "The Canadian Novel",
+            "instructor": "KHOO, J.",
+            "section": "025",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-026",
+            "code": "603-102-MQ",
+            "name": "Shakespeare on Screen",
+            "instructor": "MORRIS, B.",
+            "section": "026",
+            "schedule": [
+              { "days": ["W", "F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-027",
+            "code": "603-102-MQ",
+            "name": "The Essay",
+            "instructor": "WALSER, S.",
+            "section": "027",
+            "schedule": [
+              { "days": ["W", "F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-071",
+            "code": "603-102-MQ",
+            "name": "A&S AND LIBERAL ARTS - Literary Genres",
+            "instructor": "SHECKLER, C.",
+            "section": "071",
+            "schedule": [
+              { "days": ["M", "W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-072",
+            "code": "603-102-MQ",
+            "name": "A&S AND LIBERAL ARTS - Literary Genres",
+            "instructor": "BURTON, A.",
+            "section": "072",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-102-MQ-073",
+            "code": "603-102-MQ",
+            "name": "A&S AND LIBERAL ARTS - Literary Genres",
+            "instructor": "MORRIS, B.",
+            "section": "073",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "102"
+          },
+          {
+            "id": "603-103-MQ-001",
+            "code": "603-103-MQ",
+            "name": "Misanthropy in Literature",
+            "instructor": "CARRIER, N.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "103"
+          },
+          {
+            "id": "603-103-MQ-002",
+            "code": "603-103-MQ",
+            "name": "Gender Fluidity in Literature",
+            "instructor": "KING, S.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T", "F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "103"
+          },
+          {
+            "id": "603-LPE-MS-001",
+            "code": "603-LPE-MS",
+            "name": "The Artist in Fiction and Non-fiction",
+            "instructor": "MACDONALD, J.",
+            "section": "001",
+            "schedule": [
+              { "days": ["W", "F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-002",
+            "code": "603-LPE-MS",
+            "name": "Business Communication",
+            "instructor": "BURTON, A.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-003",
+            "code": "603-LPE-MS",
+            "name": "Business Communication",
+            "instructor": "BURTON, A.",
+            "section": "003",
+            "schedule": [
+              { "days": ["W", "F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-004",
+            "code": "603-LPE-MS",
+            "name": "The Power of Representation",
+            "instructor": "CARRIER, N.",
+            "section": "004",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-005",
+            "code": "603-LPE-MS",
+            "name": "The Power of Representation",
+            "instructor": "CARRIER, N.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-006",
+            "code": "603-LPE-MS",
+            "name": "Writings and Writing about Food",
+            "instructor": "KHOO, J.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M", "W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-007",
+            "code": "603-LPE-MS",
+            "name": "Writings and Writing about Food",
+            "instructor": "KHOO, J.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T", "F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-008",
+            "code": "603-LPE-MS",
+            "name": "Gossip in Literature and Film",
+            "instructor": "KING, S.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-009",
+            "code": "603-LPE-MS",
+            "name": "Science Fiction",
+            "instructor": "VANN, M.",
+            "section": "009",
+            "schedule": [
+              { "days": ["W", "F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-010",
+            "code": "603-LPE-MS",
+            "name": "Social Issues in Literature",
+            "instructor": "NEWELL, M.",
+            "section": "010",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-011",
+            "code": "603-LPE-MS",
+            "name": "Literature and The Body",
+            "instructor": "MALOTT, P.",
+            "section": "011",
+            "schedule": [
+              { "days": ["M", "W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-012",
+            "code": "603-LPE-MS",
+            "name": "Law and Literature",
+            "instructor": "FITZ-JAMES, M.",
+            "section": "012",
+            "schedule": [
+              { "days": ["M", "W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-013",
+            "code": "603-LPE-MS",
+            "name": "World Mythology and Critical Theory",
+            "instructor": "MCCAMBRIDGE, A.",
+            "section": "013",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-014",
+            "code": "603-LPE-MS",
+            "name": "Creative Nonfiction: Writing (True) Stories",
+            "instructor": "WALSER, S.",
+            "section": "014",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-015",
+            "code": "603-LPE-MS",
+            "name": "American Nature Writing",
+            "instructor": "FLEMING, D.",
+            "section": "015",
+            "schedule": [
+              { "days": ["T", "F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-016",
+            "code": "603-LPE-MS",
+            "name": "Researching 18th-Century Crime Writing",
+            "instructor": "DANN, P.",
+            "section": "016",
+            "schedule": [
+              { "days": ["T", "F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-017",
+            "code": "603-LPE-MS",
+            "name": "Creative Writing",
+            "instructor": "SHECKLER, C.",
+            "section": "017",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-018",
+            "code": "603-LPE-MS",
+            "name": "Shakespeare over Time",
+            "instructor": "MORRIS, B.",
+            "section": "018",
+            "schedule": [
+              { "days": ["T", "R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-019",
+            "code": "603-LPE-MS",
+            "name": "Eroticism in Poetry",
+            "instructor": "RALICKAS, V.",
+            "section": "019",
+            "schedule": [
+              { "days": ["W", "F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-020",
+            "code": "603-LPE-MS",
+            "name": "Literature and Theory",
+            "instructor": "HUFFELS, N.",
+            "section": "020",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-071",
+            "code": "603-LPE-MS",
+            "name": "A&S AND LIBERAL ARTS - English Adapted to Programs",
+            "instructor": "BERDICHEVSKY, L.",
+            "section": "071",
+            "schedule": [
+              { "days": ["M", "W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-LPE-MS-072",
+            "code": "603-LPE-MS",
+            "name": "A&S AND LIBERAL ARTS - English Adapted to Programs",
+            "instructor": "DUBÉ, P.",
+            "section": "072",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-704-MS-071",
+            "code": "603-704-MS",
+            "name": "A&S AND LIBERAL ARTS - English Adapted to Programs",
+            "instructor": "BERDICHEVSKY, L.",
+            "section": "071",
+            "schedule": [
+              { "days": ["M", "W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "603-704-MS-072",
+            "code": "603-704-MS",
+            "name": "A&S AND LIBERAL ARTS - English Adapted to Programs",
+            "instructor": "DUBÉ, P.",
+            "section": "072",
+            "schedule": [
+              { "days": ["T", "R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-blue-500/70",
+            "category": "English",
+            "group": "LPE"
+          },
+          {
+            "id": "101-SN1-RE-002",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "COLATRIANO, D.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-003",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "GILLIS, R.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-004",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "D'ABRAMO, C.",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-005",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "COLATRIANO, D.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-006",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "D'ABRAMO, C.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-007",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "GILLIS, R.",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" },
+              { "days": ["W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-008",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "D'ABRAMO, C.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-009",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "GILLIS, R.",
+            "section": "009",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-010",
+            "code": "101-SN1-RE",
+            "name": "Cellular Biology",
+            "instructor": "D'ABRAMO, C.",
+            "section": "010",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN1-RE-021",
+            "code": "101-SN1-RE",
+            "name": "ENRICHED - Cellular Biology",
+            "instructor": "OBERHOLZER, U.",
+            "section": "021",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-001",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "BARRIE, C.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "11:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-002",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "BARRIE, C.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "11:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-003",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "BRUNET, S.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 09:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-004",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "BARRIE, C.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "09:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-005",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "COLATRIANO, D.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 09:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-006",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "OBERHOLZER, U.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "10:15 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "101-SN2-RE-007",
+            "code": "101-SN2-RE",
+            "name": "Ecology and Evolution",
+            "instructor": "OBERHOLZER, U.",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:15 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-001",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "DESLANDES, J.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-002",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "DESLANDES, J.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-004",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "GWAMANDA, B.",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-005",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "GWAMANDA, B.",
+            "section": "005",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-006",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "RUSSELL, O.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN1-RE-007",
+            "code": "201-SN1-RE",
+            "name": "Probability and Statistics",
+            "instructor": "SLAVCHEV, P.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN2-RE-001",
+            "code": "201-SN2-RE",
+            "name": "Differential Calculus",
+            "instructor": "RINEHART, J.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN2-RE-002",
+            "code": "201-SN2-RE",
+            "name": "Differential Calculus",
+            "instructor": "GWAMANDA, B.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN2-RE-503",
+            "code": "201-SN2-RE",
+            "name": "Calcul différentiel",
+            "instructor": "HAN, X.",
+            "section": "503",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-001",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "FENWICK, A.",
+            "section": "001",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-002",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "FENWICK, A.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-003",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "HAMEL, M.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-004",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "HAMEL, M.",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-005",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "LIM, W.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-006",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "WANG, Q",
+            "section": "006",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-007",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "WANG, Q",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-008",
+            "code": "201-SN3-RE",
+            "name": "Integral Calculus",
+            "instructor": "LIM, W",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-021",
+            "code": "201-SN3-RE",
+            "name": "ENRICHED - Integral Calculus",
+            "instructor": "BIGDELY, H.",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-509",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "CATALANO, R.",
+            "section": "509",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-510",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "CATALANO, R.",
+            "section": "510",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-511",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "TURNER.C",
+            "section": "511",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-512",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "MAILHOT, P.",
+            "section": "512",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-513",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "MAILHOT, P.",
+            "section": "513",
+            "schedule": [
+              { "days": ["W"], "time": "16:15 - 18:15" },
+              { "days": ["M"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-514",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "HAN, X.",
+            "section": "514",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-515",
+            "code": "201-SN3-RE",
+            "name": "Calcul intégral",
+            "instructor": "HAN, X.",
+            "section": "515",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-SN3-RE-522",
+            "code": "201-SN3-RE",
+            "name": "ENRICHED - Calcul intégral",
+            "instructor": "MAILHOT, P.",
+            "section": "522",
+            "schedule": [
+              { "days": ["T"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-001",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "BUTT, R.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-002",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "BUTT, R.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-003",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "JINBACHIAN.L",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-004",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "LI, J.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-005",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "LI, J.",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "10:45 - 12:45" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-006",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "WILLIAMS.D",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-007",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "WILLIAMS.D",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-008",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "TRABOULSI, H.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-009",
+            "code": "202-SN1-RE",
+            "name": "General Chemistry",
+            "instructor": "TRABOULSI, H.",
+            "section": "009",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN1-RE-021",
+            "code": "202-SN1-RE",
+            "name": "ENRICHED - General Chemistry",
+            "instructor": "JINBACHIAN.L",
+            "section": "021",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-001",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "ABRAHAM, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-002",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "HALAB, L.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-003",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "HALAB, L.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-004",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "HALAB, L.",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-005",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "KEANE, A.",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "202-SN2-RE-006",
+            "code": "202-SN2-RE",
+            "name": "Chemistry of Solutions",
+            "instructor": "KEANE, A.",
+            "section": "006",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-006",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "SMITH, A.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-007",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "SMITH, A.",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-008",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "LEBEL, C.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-009",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "LIVINGSTONE, M.",
+            "section": "009",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-010",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "SANKERALLI.M",
+            "section": "010",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-011",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "SANKERALLI.M",
+            "section": "011",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-012",
+            "code": "203-SN1-RE",
+            "name": "Mechanics",
+            "instructor": "SANKERALLI.M",
+            "section": "012",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-021",
+            "code": "203-SN1-RE",
+            "name": "ENRICHED - LIFE SCIENCES - Mechanics",
+            "instructor": "LIVINGSTONE, M.",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-501",
+            "code": "203-SN1-RE",
+            "name": "Mécanique",
+            "instructor": "ROGERS, P.",
+            "section": "501",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-502",
+            "code": "203-SN1-RE",
+            "name": "Mécanique",
+            "instructor": "SABIK.S",
+            "section": "502",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-503",
+            "code": "203-SN1-RE",
+            "name": "Mécanique",
+            "instructor": "SABIK.S",
+            "section": "503",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-504",
+            "code": "203-SN1-RE",
+            "name": "Mécanique",
+            "instructor": "ROGERS, P.",
+            "section": "504",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["T"], "time": "10:45 - 12:45" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "203-SN1-RE-505",
+            "code": "203-SN1-RE",
+            "name": "Mécanique",
+            "instructor": "SIROIS, B.",
+            "section": "505",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-001",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "PARADIS.D",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-002",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "HAMEL, M.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-004",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "GULLIFER, J.",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-005",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "GULLIFER, J.",
+            "section": "005",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-006",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "GULLIFER, J.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "420-SN1-RE-021",
+            "code": "420-SN1-RE",
+            "name": "Programming in Science",
+            "instructor": "GULLIFER, J.",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "2024"
+          },
+          {
+            "id": "201-NYC-05-001",
+            "code": "201-NYC-05",
+            "name": "Linear Algebra",
+            "instructor": "CATALANO, R.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYC-05-002",
+            "code": "201-NYC-05",
+            "name": "Linear Algebra",
+            "instructor": "BARILL, G.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYC-05-003",
+            "code": "201-NYC-05",
+            "name": "Linear Algebra",
+            "instructor": "BADESCU, C.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-001",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "DAYON, M.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-002",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "DAYON, M.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-003",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "SABIK.S",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "10:45 - 12:45" },
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-004",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "FATHOLAHZADEH, B.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-005",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "HERNANDEZ.O",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-006",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "FATHOLAHZADEH, B.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-007",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "SMITH, A.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-008",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "SADIKOV, M.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 09:45" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-010",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "SIROIS, B.",
+            "section": "010",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-011",
+            "code": "203-NYB-05",
+            "name": "Electricity and Magnetism",
+            "instructor": "SIROIS, B.",
+            "section": "011",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-021",
+            "code": "203-NYB-05",
+            "name": "ENRICHED - MODERN PHYSICS - Electricity and Magnetism",
+            "instructor": "VINET.J",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-022",
+            "code": "203-NYB-05",
+            "name": "ENRICHED - LIFE SCIENCES - Electricity and Magnetism",
+            "instructor": "FATHOLAHZADEH, B.",
+            "section": "022",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYB-05-071",
+            "code": "203-NYB-05",
+            "name": "A&S - Electricity and Magnetism",
+            "instructor": "DAYON, M.",
+            "section": "071",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYC-05-001",
+            "code": "203-NYC-05",
+            "name": "Waves, Light and Modern Physics",
+            "instructor": "SADIKOV, M.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-NYC-05-002",
+            "code": "203-NYC-05",
+            "name": "Waves, Light and Modern Physics",
+            "instructor": "SADIKOV, M.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-001",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "FENWICK, A.",
+            "section": "001",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-002",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "FENWICK, A.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-003",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "HAMEL, M.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-004",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "HAMEL, M.",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-005",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "LIM, W",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-006",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "WANG, Q",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-007",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "WANG, Q",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-NYB-05-008",
+            "code": "201-NYB-05",
+            "name": "Integral Calculus",
+            "instructor": "LIM, W",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCU-05-001",
+            "code": "101-LCU-05",
+            "name": "General Biology II",
+            "instructor": "BRUNET, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["R"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCU-05-002",
+            "code": "101-LCU-05",
+            "name": "General Biology II",
+            "instructor": "BRUNET, S.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCU-05-003",
+            "code": "101-LCU-05",
+            "name": "General Biology II",
+            "instructor": "DALY.S",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCU-05-004",
+            "code": "101-LCU-05",
+            "name": "General Biology II",
+            "instructor": "DI FLUMERI.C",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCU-05-071",
+            "code": "101-LCU-05",
+            "name": "A&S - Biology II",
+            "instructor": "DALY.S",
+            "section": "071",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-071",
+            "code": "202-LCU-05",
+            "name": "A&S - Organic Chemistry",
+            "instructor": "ABRAHAM, S.",
+            "section": "071",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" },
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCV-05-001",
+            "code": "101-LCV-05",
+            "name": "Human Physiology",
+            "instructor": "DI FLUMERI.C",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCV-05-002",
+            "code": "101-LCV-05",
+            "name": "Human Physiology",
+            "instructor": "DI FLUMERI.C",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "10:45 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCV-05-003",
+            "code": "101-LCV-05",
+            "name": "Human Physiology",
+            "instructor": "TOUVYKINE, B.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 16:15" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCV-05-004",
+            "code": "101-LCV-05",
+            "name": "Human Physiology",
+            "instructor": "TOUVYKINE, B.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "101-LCV-05-005",
+            "code": "101-LCV-05",
+            "name": "Human Physiology",
+            "instructor": "TOUVYKINE, B.",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCU-05-001",
+            "code": "201-LCU-05",
+            "name": "Calculus III",
+            "instructor": "BAHAR, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCU-05-002",
+            "code": "201-LCU-05",
+            "name": "Calculus III",
+            "instructor": "BAHAR, S.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCV-05-001",
+            "code": "201-LCV-05",
+            "name": "Linear Algebra II",
+            "instructor": "LIM, W",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "10:15 - 12:15" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCW-05-001",
+            "code": "201-LCW-05",
+            "name": "Probability and Statistics",
+            "instructor": "BIGDELY, H.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCW-05-002",
+            "code": "201-LCW-05",
+            "name": "Probability and Statistics",
+            "instructor": "RUSSELL, O.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCW-05-003",
+            "code": "201-LCW-05",
+            "name": "Probability and Statistics",
+            "instructor": "RUSSELL, O.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" },
+              { "days": ["W"], "time": "16:15 - 17:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "201-LCY-05-001",
+            "code": "201-LCY-05",
+            "name": "Finite Mathematics",
+            "instructor": "LÉGER.A",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["T"], "time": "16:15 - 18:15" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-001",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "ABRAHAM, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-002",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "BUTT, R.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "10:45 - 12:45" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-003",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "DALY.S",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-004",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "KEANE, A.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["T"], "time": "14:15 - 16:15" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-005",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "LI, J.",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 18:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-006",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "WILLIAMS.D",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" },
+              { "days": ["R"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "202-LCU-05-007",
+            "code": "202-LCU-05",
+            "name": "Organic Chemistry I",
+            "instructor": "TRABOULSI, H.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "12:15 - 14:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "203-LCW-05-001",
+            "code": "203-LCW-05",
+            "name": "Astrophysics",
+            "instructor": "PARADIS.D",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCU-05-001",
+            "code": "420-LCU-05",
+            "name": "Computer Programming",
+            "instructor": "HILAL, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCU-05-002",
+            "code": "420-LCU-05",
+            "name": "Computer Programming",
+            "instructor": "HILAL, S.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "10:45 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCU-05-003",
+            "code": "420-LCU-05",
+            "name": "Computer Programming",
+            "instructor": "HILAL, S.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 18:15" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCV-05-001",
+            "code": "420-LCV-05",
+            "name": "Technical Drawing",
+            "instructor": "VINCENT, R.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCV-05-002",
+            "code": "420-LCV-05",
+            "name": "Technical Drawing",
+            "instructor": "VINCENT, R.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["W"], "time": "08:15 - 10:15" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "420-LCW-MS-002",
+            "code": "420-LCW-MS",
+            "name": "Programming Techniques and Applications",
+            "instructor": "VINCENT, R.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" },
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Science",
+            "group": "Pre-2024"
+          },
+          {
+            "id": "109-101-MQ-001",
+            "code": "109-101-MQ",
+            "name": "Fit/Combatives",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-002",
+            "code": "109-101-MQ",
+            "name": "Fit/Combatives",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "002",
+            "schedule": [
+              { "days": ["F"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-003",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "MCDONALD.S",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-004",
+            "code": "109-101-MQ",
+            "name": "Fit/Barre",
+            "instructor": "MCDONALD.S",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-005",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "MCDONALD.S",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-006",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "MCDONALD.S",
+            "section": "006",
+            "schedule": [
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-007",
+            "code": "109-101-MQ",
+            "name": "Fit/Games",
+            "instructor": "SCRASE, J.",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-008",
+            "code": "109-101-MQ",
+            "name": "Fit/Games",
+            "instructor": "SCRASE, J.",
+            "section": "008",
+            "schedule": [
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-009",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "SCRASE, J.",
+            "section": "009",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-010",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "SCRASE, J.",
+            "section": "010",
+            "schedule": [
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-011",
+            "code": "109-101-MQ",
+            "name": "Fit/Yoga",
+            "instructor": "TIPNEY.L",
+            "section": "011",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-012",
+            "code": "109-101-MQ",
+            "name": "Fit/Yoga",
+            "instructor": "TIPNEY.L",
+            "section": "012",
+            "schedule": [
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-013",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "TBAPHE1,",
+            "section": "013",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-014",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "TIPNEY.L",
+            "section": "014",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-015",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "TIPNEY.L",
+            "section": "015",
+            "schedule": [
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-016",
+            "code": "109-101-MQ",
+            "name": "Fit/Games",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "016",
+            "schedule": [
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-017",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "017",
+            "schedule": [
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-018",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "018",
+            "schedule": [
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-019",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "VACHON-GEE, A.",
+            "section": "019",
+            "schedule": [
+              { "days": ["R"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-020",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "VACHON-GEE, A.",
+            "section": "020",
+            "schedule": [
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-021",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "DAFNIOTIS, Z.",
+            "section": "021",
+            "schedule": [
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-022",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "DAFNIOTIS, Z.",
+            "section": "022",
+            "schedule": [
+              { "days": ["W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-101-MQ-023",
+            "code": "109-101-MQ",
+            "name": "Fitness",
+            "instructor": "TBAPHE1,",
+            "section": "023",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "101"
+          },
+          {
+            "id": "109-102-MQ-001",
+            "code": "109-102-MQ",
+            "name": "Badminton",
+            "instructor": "VACHON-GEE, A.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-002",
+            "code": "109-102-MQ",
+            "name": "Badminton",
+            "instructor": "VACHON-GEE, A.",
+            "section": "002",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-003",
+            "code": "109-102-MQ",
+            "name": "Badminton",
+            "instructor": "VACHON-GEE, A.",
+            "section": "003",
+            "schedule": [
+              { "days": ["R"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-004",
+            "code": "109-102-MQ",
+            "name": "INTENSIVE - Cross-Country Skiing",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "004",
+            "schedule": [
+              { "days": ["R"], "time": "16:15 - 19:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-005",
+            "code": "109-102-MQ",
+            "name": "INTENSIVE - Cross-Country Skiing",
+            "instructor": "ROUNTREE, C.",
+            "section": "005",
+            "schedule": [
+              { "days": ["R"], "time": "16:15 - 19:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-006",
+            "code": "109-102-MQ",
+            "name": "Dance",
+            "instructor": "DAFNIOTIS, Z.",
+            "section": "006",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-007",
+            "code": "109-102-MQ",
+            "name": "Dance",
+            "instructor": "DAFNIOTIS, Z.",
+            "section": "007",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-008",
+            "code": "109-102-MQ",
+            "name": "Martial Arts",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-009",
+            "code": "109-102-MQ",
+            "name": "Martial Arts",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "009",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-010",
+            "code": "109-102-MQ",
+            "name": "Ultimate",
+            "instructor": "EPSTEIN, N.",
+            "section": "010",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-011",
+            "code": "109-102-MQ",
+            "name": "Ultimate",
+            "instructor": "EPSTEIN, N.",
+            "section": "011",
+            "schedule": [
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-012",
+            "code": "109-102-MQ",
+            "name": "Basketball",
+            "instructor": "TBAPHE1, M.",
+            "section": "012",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-013",
+            "code": "109-102-MQ",
+            "name": "Basketball",
+            "instructor": "TBAPHE1, M.",
+            "section": "013",
+            "schedule": [
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-014",
+            "code": "109-102-MQ",
+            "name": "Soccer",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "014",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-015",
+            "code": "109-102-MQ",
+            "name": "Soccer",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "015",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-016",
+            "code": "109-102-MQ",
+            "name": "Yoga",
+            "instructor": "SCRASE, J.",
+            "section": "016",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-017",
+            "code": "109-102-MQ",
+            "name": "Yoga",
+            "instructor": "SCRASE, J.",
+            "section": "017",
+            "schedule": [
+              { "days": ["W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-018",
+            "code": "109-102-MQ",
+            "name": "INTENSIVE - Orienteering",
+            "instructor": "EPSTEIN, N.",
+            "section": "018",
+            "schedule": [
+              { "days": ["W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-019",
+            "code": "109-102-MQ",
+            "name": "Yoga",
+            "instructor": "SCRASE, J.",
+            "section": "019",
+            "schedule": [
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-020",
+            "code": "109-102-MQ",
+            "name": "Volleyball",
+            "instructor": "SCRASE, J.",
+            "section": "020",
+            "schedule": [
+              { "days": ["R"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-021",
+            "code": "109-102-MQ",
+            "name": "INTENSIVE - Winter Activities Weekend",
+            "instructor": "EPSTEIN, N.",
+            "section": "021",
+            "schedule": [
+              { "days": ["F"], "time": "14:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-022",
+            "code": "109-102-MQ",
+            "name": "Yoga/Pilates",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "022",
+            "schedule": [
+              { "days": ["T"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-023",
+            "code": "109-102-MQ",
+            "name": "Yoga/Pilates",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "023",
+            "schedule": [
+              { "days": ["F"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-102-MQ-024",
+            "code": "109-102-MQ",
+            "name": "Climbing",
+            "instructor": "ROUNTREE, C.",
+            "section": "024",
+            "schedule": [
+              { "days": ["F"], "time": "08:15 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "102"
+          },
+          {
+            "id": "109-103-MQ-001",
+            "code": "109-103-MQ",
+            "name": "Weight Training",
+            "instructor": "VACHON-GEE, A.",
+            "section": "001",
+            "schedule": [
+              { "days": ["F"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-002",
+            "code": "109-103-MQ",
+            "name": "Cross Training",
+            "instructor": "DAFNIOTIS, Z.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-003",
+            "code": "109-103-MQ",
+            "name": "Badminton",
+            "instructor": "VACHON-GEE, A.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-004",
+            "code": "109-103-MQ",
+            "name": "Badminton",
+            "instructor": "VACHON-GEE, A.",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-005",
+            "code": "109-103-MQ",
+            "name": "INTENSIVE - Cross-Country Skiing",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 19:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-006",
+            "code": "109-103-MQ",
+            "name": "INTENSIVE - Cross-Country Skiing",
+            "instructor": "ROUNTREE, C.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 19:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-007",
+            "code": "109-103-MQ",
+            "name": "Jiujitsu",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "007",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-008",
+            "code": "109-103-MQ",
+            "name": "Jiujitsu",
+            "instructor": "BELLEVUE-FORTIN, N.",
+            "section": "008",
+            "schedule": [
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-009",
+            "code": "109-103-MQ",
+            "name": "Power Yoga",
+            "instructor": "MCDONALD.S",
+            "section": "009",
+            "schedule": [
+              { "days": ["R"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-010",
+            "code": "109-103-MQ",
+            "name": "Weight Training",
+            "instructor": "MCDONALD.S",
+            "section": "010",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-011",
+            "code": "109-103-MQ",
+            "name": "Weight Training",
+            "instructor": "MCDONALD.S",
+            "section": "011",
+            "schedule": [
+              { "days": ["W"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-012",
+            "code": "109-103-MQ",
+            "name": "Stress Management",
+            "instructor": "TIPNEY.L",
+            "section": "012",
+            "schedule": [
+              { "days": ["M"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-013",
+            "code": "109-103-MQ",
+            "name": "Stress Management",
+            "instructor": "TIPNEY.L",
+            "section": "013",
+            "schedule": [
+              { "days": ["R"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-014",
+            "code": "109-103-MQ",
+            "name": "Flexibility/Mobility",
+            "instructor": "MCDONALD.S",
+            "section": "014",
+            "schedule": [
+              { "days": ["M"], "time": "12:15 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-015",
+            "code": "109-103-MQ",
+            "name": "Ultimate",
+            "instructor": "EPSTEIN, N.",
+            "section": "015",
+            "schedule": [
+              { "days": ["R"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-016",
+            "code": "109-103-MQ",
+            "name": "INTENSIVE - Snowshoe Hikes",
+            "instructor": "EPSTEIN, N.",
+            "section": "016",
+            "schedule": [
+              { "days": ["W"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-017",
+            "code": "109-103-MQ",
+            "name": "Team Sports",
+            "instructor": "EPSTEIN, N.",
+            "section": "017",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 16:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-018",
+            "code": "109-103-MQ",
+            "name": "Team Sports",
+            "instructor": "PERRON-WOJCIK, L.",
+            "section": "018",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-019",
+            "code": "109-103-MQ",
+            "name": "Soccer",
+            "instructor": "TIPNEY.L",
+            "section": "019",
+            "schedule": [
+              { "days": ["F"], "time": "10:15 - 12:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "109-103-MQ-020",
+            "code": "109-103-MQ",
+            "name": "Basketball",
+            "instructor": "TBAPHE1, M.",
+            "section": "020",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 18:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "Physical Education",
+            "group": "103"
+          },
+          {
+            "id": "602-LPW-MS-001",
+            "code": "602-LPW-MS",
+            "name": "Langue et expression II",
+            "instructor": "FALARDEAU, J.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "100"
+          },
+          {
+            "id": "602-LPW-MS-002",
+            "code": "602-LPW-MS",
+            "name": "Langue et expression II",
+            "instructor": "HURTUBISE, P.",
+            "section": "002",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "100"
+          },
+          {
+            "id": "602-LPW-MS-003",
+            "code": "602-LPW-MS",
+            "name": "Langue et expression II",
+            "instructor": "HURTUBISE, P.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "100"
+          },
+          {
+            "id": "602-LPX-MS-001",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "MORIN CABANA, T.",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-002",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "MORIN CABANA, T.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-003",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "MORIN CABANA, T.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-004",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "MORIN CABANA, T.",
+            "section": "004",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-005",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "LEVASSEUR.I",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-006",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "GASSE-HOULE, M.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-007",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "GASSE-HOULE, M.",
+            "section": "007",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-008",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "COUTU-PERRAULT, J.",
+            "section": "008",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-009",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "COUTU-PERRAULT, J.",
+            "section": "009",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-LPX-MS-010",
+            "code": "602-LPX-MS",
+            "name": "Langue française et communication II",
+            "instructor": "COUTU-PERRAULT, J.",
+            "section": "010",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "101"
+          },
+          {
+            "id": "602-102-MQ-001",
+            "code": "602-102-MQ",
+            "name": "Langue française et culture",
+            "instructor": "MIZOUNI, S.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-001",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "PAGÉ.S",
+            "section": "001",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-002",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "PAGÉ.S",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-003",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "SAVESCU.O",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-004",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "SAVESCU.O",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-005",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "SAVESCU.O",
+            "section": "005",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-006",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "GASSE-HOULE, M.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPY-MS-007",
+            "code": "602-LPY-MS",
+            "name": "Langue française et culture II",
+            "instructor": "GASSE-HOULE, M.",
+            "section": "007",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "102"
+          },
+          {
+            "id": "602-LPZ-MS-001",
+            "code": "602-LPZ-MS",
+            "name": "Science moderne",
+            "instructor": "PAGÉ.S",
+            "section": "001",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "103"
+          },
+          {
+            "id": "602-LPZ-MS-002",
+            "code": "602-LPZ-MS",
+            "name": "L’absurde dans la littérature",
+            "instructor": "SAVESCU.O",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "103"
+          },
+          {
+            "id": "602-LPZ-MS-003",
+            "code": "602-LPZ-MS",
+            "name": "Tendances de la littérature contemporaine",
+            "instructor": "SOUCY, L.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "103"
+          },
+          {
+            "id": "602-LPZ-MS-004",
+            "code": "602-LPZ-MS",
+            "name": "Tendances de la littérature contemporaine",
+            "instructor": "SOUCY, L.",
+            "section": "004",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "103"
+          },
+          {
+            "id": "602-F03-MS-001",
+            "code": "602-F03-MS",
+            "name": "Renforcement en français, collégial",
+            "instructor": "LEVASSEUR.I",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 10:15" },
+              { "days": ["W"], "time": "08:15 - 10:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF0-MQ-001",
+            "code": "602-UF0-MQ",
+            "name": "Œuvres narratives et écriture",
+            "instructor": "PHANEUF-JOLICOEUR, X.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF0-MQ-002",
+            "code": "602-UF0-MQ",
+            "name": "Œuvres narratives et écriture",
+            "instructor": "PHANEUF-JOLICOEUR, X.",
+            "section": "002",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF0-MQ-003",
+            "code": "602-UF0-MQ",
+            "name": "Œuvres narratives et écriture",
+            "instructor": "LAMER, M.",
+            "section": "003",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-001",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "COUTU-PERRAULT, J.",
+            "section": "001",
+            "schedule": [
+              { "days": ["W"], "time": "14:15 - 15:45" },
+              { "days": ["F"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-002",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "JUTRAS, A.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-003",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "JUTRAS, A.",
+            "section": "003",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-004",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "JUTRAS, A.",
+            "section": "004",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-005",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "JUTRAS, A.",
+            "section": "005",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-006",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "FALARDEAU, J.",
+            "section": "006",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-007",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "FALARDEAU, J.",
+            "section": "007",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-008",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "FALARDEAU, J.",
+            "section": "008",
+            "schedule": [
+              { "days": ["W"], "time": "12:45 - 14:15" },
+              { "days": ["F"], "time": "12:45 - 14:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-009",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "DÉCLOÎTRE, R.",
+            "section": "009",
+            "schedule": [
+              { "days": ["T"], "time": "16:15 - 17:45" },
+              { "days": ["R"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-010",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "DÉCLOÎTRE, R.",
+            "section": "010",
+            "schedule": [
+              { "days": ["M"], "time": "16:15 - 17:45" },
+              { "days": ["W"], "time": "16:15 - 17:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-011",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "DÉCLOÎTRE, R.",
+            "section": "011",
+            "schedule": [
+              { "days": ["T"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "14:15 - 15:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-012",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "MIZOUNI, S.",
+            "section": "012",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-013",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "MIZOUNI, S.",
+            "section": "013",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-014",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "MIZOUNI, S.",
+            "section": "014",
+            "schedule": [
+              { "days": ["T"], "time": "11:15 - 12:45" },
+              { "days": ["F"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-015",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "LAMER, M.",
+            "section": "015",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-016",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "LAMER, M.",
+            "section": "016",
+            "schedule": [
+              { "days": ["M"], "time": "11:15 - 12:45" },
+              { "days": ["R"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-017",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "LAMER, M.",
+            "section": "017",
+            "schedule": [
+              { "days": ["T"], "time": "08:15 - 09:45" },
+              { "days": ["F"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-018",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "PHANEUF-JOLICOEUR, X.",
+            "section": "018",
+            "schedule": [
+              { "days": ["M"], "time": "12:45 - 14:15" },
+              { "days": ["R"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-019",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "PHANEUF-JOLICOEUR, X.",
+            "section": "019",
+            "schedule": [
+              { "days": ["T"], "time": "09:45 - 11:15" },
+              { "days": ["F"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-020",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "DUPUIS, A.",
+            "section": "020",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF1-MQ-021",
+            "code": "602-UF1-MQ",
+            "name": "Poésie, théâtre et écriture",
+            "instructor": "DUPUIS, A.",
+            "section": "021",
+            "schedule": [
+              { "days": ["M"], "time": "09:45 - 11:15" },
+              { "days": ["W"], "time": "09:45 - 11:15" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF2-MQ-001",
+            "code": "602-UF2-MQ",
+            "name": "Comparaison d'œuvres littéraires",
+            "instructor": "SOUCY, L.",
+            "section": "001",
+            "schedule": [
+              { "days": ["M"], "time": "08:15 - 09:45" },
+              { "days": ["W"], "time": "08:15 - 09:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          },
+          {
+            "id": "602-UF2-MQ-002",
+            "code": "602-UF2-MQ",
+            "name": "Comparaison d'œuvres littéraires",
+            "instructor": "SOUCY, L.",
+            "section": "002",
+            "schedule": [
+              { "days": ["M"], "time": "14:15 - 15:45" },
+              { "days": ["R"], "time": "11:15 - 12:45" }
+            ],
+            "color": "bg-green-500/70",
+            "category": "French",
+            "group": "Epreuve"
+          }
+          
+      ]
+}
