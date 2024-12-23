@@ -1,5 +1,6 @@
 import React from 'react';
-import ScheduleBuilder from './ScheduleBuilder.jsx'
+import ScheduleBuilder from '../src/Schedulebuilder.jsx'
+
 
 
 const App = () => {
